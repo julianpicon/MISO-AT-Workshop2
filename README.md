@@ -34,6 +34,8 @@ Pruebas realizadas al sitio: https://losestudiantes.co/
 
 ### 2. Protractor
 
+![Screenshot](./screenshots/Protactor/EjecucionPruebasProtactor.gif)
+
 ### 3. Webdriver.io
 
 ### 4. Nightwatch.js
