@@ -47,3 +47,15 @@ Búscar profesor:
 ![Screenshot](./screenshots/WebDriverIO/BuscarProfesor.gif)
 
 ### 4. Nightwatch.js
+
+Login Fallido:
+
+![Screenshot](./screenshots/Nightwatch/LoginFallido.gif)
+
+Ir página del profesor:
+
+![Screenshot](./screenshots/Nightwatch/IrPaginaProfesor.gif)
+
+Filtrar por materia:
+
+![Screenshot](./screenshots/Nightwatch/FiltrarXMateria.gif)
