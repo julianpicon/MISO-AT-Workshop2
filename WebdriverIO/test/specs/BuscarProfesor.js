@@ -11,7 +11,7 @@ describe('los estudiantes crear cuenta', function() {
        jasmine.DEFAULT_TIMEOUT_INTERVAL = originalTimeout;
      });
 
-    /*it('should visit los estudiantes and create account has to fail', function () {
+    it('should visit los estudiantes and create account has to fail', function () {
         browser.url('https://losestudiantes.co');
         browser.click('button=Cerrar');
 
@@ -19,6 +19,6 @@ describe('los estudiantes crear cuenta', function() {
         var finder = browser.element('.buscador');
         finder.click();
         finder.keys('Rubby Casallas');
-    });*/
+    });
 
 });

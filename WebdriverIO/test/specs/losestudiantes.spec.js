@@ -11,7 +11,7 @@ describe('los estudiantes login', function() {
        jasmine.DEFAULT_TIMEOUT_INTERVAL = originalTimeout;
      });
 
-   /* it('should visit los estudiantes and failed at log in', function () {
+   it('should visit los estudiantes and failed at log in', function () {
         browser.url('https://losestudiantes.co');
         browser.click('button=Cerrar');
         browser.waitForVisible('button=Ingresar', 5000);
@@ -33,6 +33,6 @@ describe('los estudiantes login', function() {
 
         var alertText = browser.element('.aviso.alert.alert-danger').getText();
         expect(alertText).toBe('Upss! El correo y la contraseña que ingresaste no figuran en la base de datos. Intenta de nuevo por favor.');
-    });*/
+    });
 
 });

@@ -11,7 +11,7 @@ describe('los estudiantes crear cuenta', function() {
        jasmine.DEFAULT_TIMEOUT_INTERVAL = originalTimeout;
      });
 
-    /*it('should visit los estudiantes and create account', function () {
+    it('should visit los estudiantes and create account', function () {
         browser.url('https://losestudiantes.co');
         browser.click('button=Cerrar');
         browser.waitForVisible('button=Ingresar', 10000);
@@ -45,6 +45,6 @@ describe('los estudiantes crear cuenta', function() {
         browser.waitForVisible('.sweet-alert', 12000);
         var alertText = browser.element('.sweet-alert').getText();
         expect('a*=Save')
-    });*/
+    });
 
 });
