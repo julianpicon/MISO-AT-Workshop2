@@ -7,7 +7,7 @@ describe('Crear cuenta', function() {
       cy.get('.cajaSignUp').find('input[name="nombre"]').click().type("Julián")
       cy.get('.cajaSignUp').find('input[name="apellido"]').click().type("Picón")
       cy.get('.cajaSignUp').find('input[name="correo"]').click().type("julian.picon@hotmail.com")
-      cy.get('.cajaSignUp').find('input[type="checkbox"]').first().check()
+      cy.get('.cajaSignUp').find('input[type="checkbox"]').first().check() //Estudio maestria
       cy.get('.cajaSignUp').find('select[name="idPrograma"]').select('16')
       cy.get('.cajaSignUp').find('input[name="password"]').click().type("12345678")
       cy.get('.cajaSignUp').find('input[name="acepta"]').check()
