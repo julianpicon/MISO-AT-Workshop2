@@ -38,4 +38,12 @@ Pruebas realizadas al sitio: https://losestudiantes.co/
 
 ### 3. Webdriver.io
 
+Crear cuenta:
+
+![Screenshot](./screenshots/WebDriverIO/CrearCuenta.gif)
+
+Búscar profesor:
+
+![Screenshot](./screenshots/WebDriverIO/BuscarProfesor.gif)
+
 ### 4. Nightwatch.js
