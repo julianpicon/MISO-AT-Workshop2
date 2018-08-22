@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="FiltrarXMateria"
+    errors="0" failures="0" hostname="" id="" package="FiltrarXMateria" skipped="0"
+    tests="1" time="37.06" timestamp="Wed, 22 Aug 2018 03:45:37 GMT">
+  
+    <testcase name="Filter by subjects" classname="FiltrarXMateria" time="37.06" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
